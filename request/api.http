@@ -1,0 +1,6 @@
+POST http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+{
+"longUrl":"https://www.amazon.com/s?k=sweatshirts&i=fashion-womens-intl-ship&pd_rd_r=40bbc563-5d33-4217-b6af-7e237fc2ecf6&pd_rd_w=u79w4&pd_rd_wg=ZQRIF&pf_rd_p=bb27b743-d39d-4423-a18e-dd1d61011f4f&pf_rd_r=XV8NGS017RSB1C8XVP36&ref=pd_gw_unk"
+}

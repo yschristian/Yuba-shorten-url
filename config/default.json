@@ -1,0 +1,5 @@
+{
+"mongoURL":"mongodb+srv://chris:chris@cluster0.k1npp.mongodb.net/test?retryWrites=true&w=majority",
+"baseURL":"http://localhost:5000"
+}
+
